@@ -148,7 +148,7 @@ Faqat birinchi topilgan joyni chiqaring.
 
 | Input                        | Output |
 | ---------------------------- | ------ |
-| `"pythonpyPYpy"`, `"py"` | `2`    |
+| `"pypyttttt"`, `"py"` | `2`    |
 
 ---
 
@@ -158,7 +158,7 @@ Faqat birinchi topilgan joyni chiqaring.
 
 | Input                                   | Output |
 | --------------------------------------- | ------ |
-| `"file.txt.2025.report.doc"`, `"."` | `3`    |
+| `"file.txt.2025.report.doc"`, `"."` | `4`    |
 
 ---
 
